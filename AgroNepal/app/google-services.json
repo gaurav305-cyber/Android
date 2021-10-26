@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "907646585047",
+    "firebase_url": "https://agronepal-b0958.firebaseio.com",
+    "project_id": "agronepal-b0958",
+    "storage_bucket": "agronepal-b0958.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907646585047:android:b911904d0e84512221c892",
+        "android_client_info": {
+          "package_name": "com.example.agronepal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907646585047-2ea8u2k1q57sq1hvsvlbp2p3d7avakae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEn3XPKlOdxrvUVyOc3XGoDAc7Id0w7k8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907646585047-2ea8u2k1q57sq1hvsvlbp2p3d7avakae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

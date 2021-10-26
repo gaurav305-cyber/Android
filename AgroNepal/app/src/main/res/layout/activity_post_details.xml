@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activities.PostDetailsActivity">
+
+
+    <EditText
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:layout_marginTop="30dp"
+        android:background="#C0C0C0"
+        android:hint="Title"
+        android:inputType="textPersonName"
+        android:textColorHint="#022B0A" />
+
+    <EditText
+        android:id="@+id/exp"
+        android:layout_width="match_parent"
+        android:layout_height="153dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="20dp"
+        android:background="#D3D3D3"
+        android:hint="Write Your Experiences here...."
+        android:inputType="textPersonName"
+        android:paddingTop="-50dp"
+        android:textColorHint="#022B0A" />
+
+    <Button
+        android:id="@+id/buttonupdt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="@color/lgreen"
+        android:text="Update" />
+
+</LinearLayout>
